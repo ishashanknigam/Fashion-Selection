@@ -1,4 +1,5 @@
-# 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐖𝐞𝐛𝐬𝐢𝐭𝐞
+# FramedStories
+
 
 A clean, modern interface highlighting creativity in the fashion industry
 
